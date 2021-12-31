@@ -5,8 +5,9 @@
 
 2 main components:
 
-components\AutoCompleteText
-components\SuggestionsComponent
+a. components\AutoCompleteText
+
+b. components\SuggestionsComponent
 
 
 Functionality
