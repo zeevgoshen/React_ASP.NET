@@ -1,6 +1,6 @@
 # Autocomplete in C# ASP.Net and React
  
-Autocomplete in ASPNet and ReactJS,  22/02/20 - Ze'ev Goshen.
+22/02/20 - Ze'ev Goshen.
 -------------------------------------------------------------
 
 I used Chrome, in maximized view mode, most of the time.
